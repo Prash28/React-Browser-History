@@ -1,3 +1,27 @@
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/adrianhajdin/refine_dashboard.git
+cd refine_dashboard
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+
+**Running the Project**
+
+```bash
+npm start
+```
+
+**Project Overview**
+
 In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
