@@ -1,0 +1,32 @@
+li {
+  display: flex;
+  /* flex-direction: row; */
+  /* width: 100%; */
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  align-items: center;
+  margin: 20px;
+  list-style: none;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+}
+.list-item p {
+  margin-left: 10px;
+}
+.item-logo {
+  margin-left: 10px;
+}
+.item-domain {
+  color: #475569;
+  font-size: 14px;
+  margin-left: 5px;
+}
+button {
+  background-color: transparent;
+  border: 0;
+}
+button:hover {
+  cursor: pointer;
+}
