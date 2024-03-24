@@ -1,8 +1,8 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/refine_dashboard.git
-cd refine_dashboard
+git clone https://github.com/Prash28/React-Browser-History.git
+cd React-Browser-History
 ```
 
 **Installation**
